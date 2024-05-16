@@ -1,6 +1,7 @@
 ---
 date: 2024-05-16
 article: false
+shortTitle: 第00章 前言
 ---
 
 

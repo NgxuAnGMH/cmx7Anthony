@@ -1,5 +1,6 @@
 ---
 date: 2024-05-16
+shortTitle: 第01章 初识算法
 article: false
 ---
 
