@@ -26,7 +26,6 @@ copyright: '
 <a href="https://www.cutercounter.com/traditional-chinese-nn/" target="_blank"><img src="https://www.cutercounter.com/hits.php?id=hxnacpq&nd=7&style=3" border="0" alt="免費計數器"></a>
 <!-- End of CuterCounter Code -->
 <br><br>
-Copyright &nbsp©&nbsp 20220-present &nbspMingHin&nbsp Choi &nbsp/&nbsp 無限進步'
+Copyright &nbsp©&nbsp 2022-present &nbspMingHin&nbsp Choi &nbsp/&nbsp 無限進步'
 ---
-
 
